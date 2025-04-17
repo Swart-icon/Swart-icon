@@ -21,7 +21,7 @@
     </td>
       <td>
       
-  ![Cool GIF](68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif)      
+  ![Cool GIF](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://giphy.com/&ved=2ahUKEwiSnICz396MAxX9SvEDHVclHwU4ChCH7Ap6BAgKEAQ&usg=AOvVaw1OZXB6uTf-6p0QnNp8ReX4)    
     </td>
     </tr>
 </table>
